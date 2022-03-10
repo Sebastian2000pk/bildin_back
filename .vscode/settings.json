@@ -1,0 +1,4 @@
+{
+  "appService.defaultWebAppToDeploy": "/subscriptions/86b76fcf-c6da-49fc-a0b2-af6ac76c8fc0/resourceGroups/AppServices/providers/Microsoft.Web/sites/GLservices",
+  "appService.deploySubpath": "."
+}
